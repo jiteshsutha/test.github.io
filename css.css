@@ -1,0 +1,19 @@
+body{
+    background-image: url(galaxy.jpg);
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+    
+}
+fieldset{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
